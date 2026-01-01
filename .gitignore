@@ -1,3 +1,13 @@
-.cph
-.vscode
-.exe
+# Executables
+*.exe
+*.out
+a.out
+
+# CP Helper
+*.cph/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
